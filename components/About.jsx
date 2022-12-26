@@ -13,23 +13,26 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-            I specialize in building mobile responsive front-end UI applications
-            that connect with API’s and other backend technologies. I’m
-            passionate about learning new technologies and understand there is
-            more than one way to accomplish a task. Though I am most proficient
-            in building front-end applications using HTML, CSS, Javascript, and
-            React, I am a quick learner and can pick up new tech stacks as
-            needed. I believe that being a great developer is not using one
-            specific language, but choosing the best tool for the job.
+            Hi, I&apos;m Keshia! And you can call me Kesh for short.
+            I could not be more exited to embrace my new journey as a Junior Software Engineer!
           </p>
           <p className='py-2 text-gray-600'>
-            I started web developement in 2013 managing multiple e-commerce
-            websites on CMS platforms such as WordPress, BigCommerce, and
-            Shopify. I have experience working directly with clients and taking
-            mock wireframes all the way to deployed applications. In my spare
-            time I run Code Commerce, a Youtube channel where I teach web
-            developement and various front-end technologies.
+            While I really enjoyed working as Operations Manager where it has taught me a lot of soft 
+            and hard skills which allow me to grow as a person, I know that there is something new out 
+            there to learn and discover. That's when I decided to take a career break and enrolled in a 3-month 
+            Software Engineering Immersive bootcamp at General Assembly, which I completed in December 2022.
           </p>
+          <p className='py-2 text-gray-600'>
+            I&apos;m passionate about learning new technologies and understand there is
+            more than one way to accomplish a task. Though I am most proficient in building 
+            front-end applications using HTML, CSS, Javascript, and React, I am a quick learner 
+            and can pick up new tech stacks as needed. I believe that being a great developer is 
+            not using one specific language, but choosing the best tool for the job.
+          </p>
+          <p className='py-2 text-gray-600'>
+            I&apos;m currently open to job opportunities so please feel free to email or connect with me via LinkedIn.
+          </p>
+      
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>
               Check out some of my latest projects.

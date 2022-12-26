@@ -86,7 +86,7 @@ const Navbar = () => {
           <div
             style={{ color: `${linkColor}` }}
             onClick={handleNav}
-            className='md:hidden'
+            className='md:hidden cursor-pointer'
           >
             <AiOutlineMenu size={25} />
           </div>
@@ -158,9 +158,6 @@ const Navbar = () => {
                 </li>
               </Link>
 
-              {/* <Link className='py-4 text-sm'href="kesh-resume.pdf" target="_blank" rel="noopener noreferrer">Resume
-              </Link> */}
-
               <Link href='/#contact'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Contact
@@ -173,7 +170,7 @@ const Navbar = () => {
               </p>
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                 <a
-                  href='https://www.linkedin.com/in/clint-briley-50056920a/'
+                  href='https://www.linkedin.com/in/keshiawijaya/'
                   target='_blank'
                   rel='noreferrer'
                 >
@@ -182,7 +179,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href='https://github.com/fireclint'
+                  href='https://github.com/pawspower'
                   target='_blank'
                   rel='noreferrer'
                 >

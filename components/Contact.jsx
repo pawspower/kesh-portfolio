@@ -11,7 +11,7 @@ import ContactImg from '../public/assets/contact.png';
 const Contact = () => {
   return (
     <div id='contact' className='w-full lg:h-screen text-center'>
-      <div className='max-w-[1240px] m-auto px-2 py-32 w-full'>
+      <div className='max-w-[1240px] m-auto px-2 py-24 w-full'>
         <p className='text-xl tracking-widest uppercase text-[#579a72]'>
           Contact
         </p>
@@ -19,7 +19,7 @@ const Contact = () => {
         {/* <div className='grid lg:grid-cols-5 gap-8'> */}
 
           {/* left */}
-          <div className='col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4 text-center'>
+          {/* <div className='col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4 text-center'> */}
             <div className='lg:p-4 w-96 m-auto text-center items-center'>
               <div>
                 <Image
@@ -32,7 +32,7 @@ const Contact = () => {
                 <h2 className='py-2'>Keshia Wijaya</h2>
                 <p>Front-End Developer</p>
                 <p className='py-4'>
-                  I am available for full-time positions. Let&apos;s have a chat!
+                I&apos;m currently open to job opportunities so please feel free to connect with me!
                 </p>
               </div>
               <div>
@@ -43,7 +43,7 @@ const Contact = () => {
                   Say Hello
                 </button>
               </div>
-              <div className='flex justify-center py-12'>
+              <div className='flex justify-center py-8'>
               <Link href='/'>
                 <a>
                   <div className='rounded-full shadow-lg shadow-gray-400 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
@@ -58,7 +58,7 @@ const Contact = () => {
             </div>
           </div>
         </div>
-      </div>
+      // </div>
   );
 };
 

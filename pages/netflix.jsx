@@ -18,22 +18,21 @@ const netflix = () => {
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
           <h2 className='py-2'>Netflix Copy</h2>
-          <h3>React JS / Tailwind / Firebase</h3>
+          <h3>React JS / Tailwind / Firebase / Cloud Firestore / Netlify</h3>
         </div>
       </div>
 
       <div className='max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 py-8'>
         <div className='col-span-4'>
-          <p>Project</p>
-          <h2>Overview</h2>
+          <p >Project</p>
+          <h2 className='py-4'>Overview</h2>
           <p>
-            I built this application in React JS and is hosted on GitHub pages.
-            This app features user authentication with firebase as well as the
-            firestore cloud storage database. This application is pulling movie
-            data from an the IMDB movie API and displaying different categories.
-            It features horizontal sliding and a featured selection. The
-            useContext hook is also being implemented for app-wide state
-            management.
+          I built this application in React JS and is hosted on Netlify.
+          This app features user authentication with firebase as well as the
+          firestore cloud storage database so that the user can save their favorite shows. 
+          This application is pulling movie data from an the IMDB movie API and displaying different categories.
+          It features horizontal sliding and a featured selection. The useContext hook is also being implemented 
+          for app-wide state management.
           </p>
           <a
             href='https://github.com/pawspower/netflix-copy'
