@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React, { useState } from 'react';
-import { email } from '/config.js';
 // import { AiOutlineMail } from 'react-icons/ai';
 // import { BsFillPersonLinesFill } from 'react-icons/bs';
 // import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
@@ -39,9 +38,11 @@ const Contact = () => {
               {/* <a className="email-link" href={`mailto:${email}`}>
                   Say Hello
               </a> */}
-                <button className='w-48 p-4 text-gray-100 mt-4 email-link' href={`mailto:${email}`}>
+              <a href="mailto:kesh.wijaya@gmail.com">
+                <button className='w-48 p-4 text-gray-100 mt-4 email-link'>
                   Say Hello
                 </button>
+              </a>
               </div>
               <div className='flex justify-center py-8'>
               <Link href='/'>

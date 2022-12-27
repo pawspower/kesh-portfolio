@@ -6,13 +6,14 @@ import Projects from '../components/Projects'
 import Skills from '../components/Skills'
 
 
+
 export default function Home() {
   return (
     <div>
       <Head>
         <title>Keshia | Front-End Developer</title>
-        <meta name="description" content="I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences." />
-        <link rel="icon" href="/fav.png" />
+        <meta name="description" content="I’m an enthusiastic front-end web developer with an acute eye for design whilst optimizing functionality." />
+        <link rel="icon" href="/public/favicon.ico" />
       </Head>
     <Main />
     <About />

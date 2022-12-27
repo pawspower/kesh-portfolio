@@ -86,7 +86,7 @@ const Navbar = () => {
           <div
             style={{ color: `${linkColor}` }}
             onClick={handleNav}
-            className='md:hidden cursor-pointer'
+            className='md:hidden'
           >
             <AiOutlineMenu size={25} />
           </div>
@@ -157,6 +157,7 @@ const Navbar = () => {
                   Resume
                 </li>
               </Link>
+
 
               <Link href='/#contact'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
