@@ -13,24 +13,27 @@ const About = () => {
           </p>
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
-            Hi, I&apos;m Keshia! And you can call me Kesh for short.
-            I could not be more exited to embrace my new journey as a Junior Software Engineer!
+            Hi, my name is Keshia, but you can call me Kesh for short. 
           </p>
           <p className='py-2 text-gray-600'>
-            While I really enjoyed working as Operations Manager where it has taught me a lot of soft 
-            and hard skills which allow me to grow as a person, I know that there is something new out 
-            there to learn and discover. That's when I decided to take a career break and enrolled in a 3-month 
-            Software Engineering Immersive bootcamp at General Assembly, which I completed in December 2022.
+            I am really excited to embark on my journey as a junior software engineer and 
+            apply my skills and experiences to new challenges and projects. 
+            I recently took a career break to pursue my passion for technology and enrolled 
+            in a 3-month Software Engineering Immersive bootcamp at General Assembly, 
+            where I gained hands-on experience with technologies such as HTML, CSS, and JavaScript.
           </p>
           <p className='py-2 text-gray-600'>
-            I&apos;m passionate about learning new technologies and understand there is
-            more than one way to accomplish a task. Though I am most proficient in building 
-            front-end applications using HTML, CSS, Javascript, and React, I am a quick learner 
-            and can pick up new tech stacks as needed. I believe that being a great developer is 
-            not using one specific language, but choosing the best tool for the job.
+            Before becoming a software engineer, I worked as an Operations Manager, where I developep 
+            strong problem-solving, communication, and leadership skills. 
+            I am a hard-working and flexible team player, with a strong desire to learn and adapt to new technologies. 
+            I also value open communication and collaboration with my team members and strive to deliver high-quality work.
           </p>
           <p className='py-2 text-gray-600'>
-            I&apos;m currently open to job opportunities so please feel free to email or connect with me via LinkedIn.
+            Though I am most proficient in building front-end applications using HTML, CSS, Javascript, and React, 
+            I am a quick learner and can pick up new tech stacks as needed. 
+            I believe that being a great developer is not using one specific language, but choosing the best tool for the job.
+            So, If you're looking for a motivated and skilled junior software engineer to join your team, 
+            I would love the opportunity to connect and learn more about your project. Let's get in touch!
           </p>
       
           <Link href='/#projects'>
