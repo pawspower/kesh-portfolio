@@ -32,8 +32,8 @@ const About = () => {
             Though I am most proficient in building front-end applications using HTML, CSS, Javascript, and React, 
             I am a quick learner and can pick up new tech stacks as needed. 
             I believe that being a great developer is not using one specific language, but choosing the best tool for the job.
-            So, If you're looking for a motivated and skilled junior software engineer to join your team, 
-            I would love the opportunity to connect and learn more about your project. Let's get in touch!
+            So, If you&apos;re looking for a motivated and skilled junior software engineer to join your team, 
+            I would love the opportunity to connect and learn more about your project. Let&apos;s get in touch!
           </p>
       
           <Link href='/#projects'>
