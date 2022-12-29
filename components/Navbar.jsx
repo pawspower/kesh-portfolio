@@ -76,7 +76,7 @@ const Navbar = () => {
               <Link href='/#projects'>Projects</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b'>
-              <Link href='pdf/kesh-resume.pdf'>Resume</Link>
+              <Link href='kesh-portfolio/pdf/kesh-resume.pdf'>Resume</Link>
               {/* <a href="pdf/kesh-resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a> */}
               
             </li>
