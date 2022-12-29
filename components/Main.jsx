@@ -51,7 +51,7 @@ const Main = () => {
             </Link>
 
             <a
-              href='/pdf/kesh-resume.pdf'
+              href='/kesh-portfolio/pdf/kesh-resume.pdf'
               target='_blank'
               rel='noreferrer'
             >
