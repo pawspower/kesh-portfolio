@@ -52,7 +52,7 @@ const Main = () => {
 
             <a
               href='/pdf/kesh-resume.pdf'
-              alt='/'
+              
               rel="noopener noreferrer"
               target='_blank'
               
