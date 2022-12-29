@@ -1,23 +1,23 @@
-import dynamic from "next/dynamic";
-import { useEffect, useState } from "react";
-import {Document, Page, Text, Image, PDFViewer, Stylesheet, Font} from '@react-pdf/renderer'
+// import dynamic from "next/dynamic";
+// import { useEffect, useState } from "react";
+// import {Document, Page, Text, Image, PDFViewer, Stylesheet, Font} from '@react-pdf/renderer'
 
-const MyResumePDF = dynamic(() => import('../public/assets/kesh-resume.pdf'), {
-    ssr: false
-});
+// const MyResumePDF = dynamic(() => import('../public/assets/kesh-resume.pdf'), {
+//     ssr: false
+// });
 
-const View = () => {
-    const [client, setClient] = useState(false)
+// const View = () => {
+//     const [client, setClient] = useState(false)
 
-    useEffect(() => {
-        setClient(true)
-    },[])
+//     useEffect(() => {
+//         setClient(true)
+//     },[])
 
-    return (
+//     return (
         
-        <MyResumePDF />
-       
         
-    )
-}
-export default View
+//        <iframe src='/assets/pdfs/myResume.pdf' />
+        
+//     )
+// }
+// export default View
