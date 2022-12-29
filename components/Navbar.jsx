@@ -154,7 +154,7 @@ const Navbar = () => {
                 </li>
               </Link>
 
-              <Link href="kesh-resume.pdf" target="_blank" rel="noopener noreferrer">
+              <Link href="/pdf/kesh-resume.pdf" target="_blank" rel="noopener noreferrer">
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Resume
                 </li>
