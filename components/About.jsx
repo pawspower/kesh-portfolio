@@ -23,7 +23,7 @@ const About = () => {
             where I gained hands-on experience with technologies such as HTML, CSS, and JavaScript.
           </p>
           <p className='py-2 text-gray-600'>
-            Before becoming a software engineer, I worked as an Operations Manager, where I develop 
+            Before becoming a software engineer, I worked as an Operations Manager, where I developed 
             strong problem-solving, communication, and leadership skills. 
             I am a hard-working and flexible team player, with a strong desire to learn and adapt to new technologies. 
             I also value open communication and collaboration with my team members and strive to deliver high-quality work.
