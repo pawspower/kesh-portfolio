@@ -18,7 +18,7 @@ const traveldiary = () => {
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
           <h2 className='py-2'>Travel Diary</h2>
-          <h3>Ruby on Rails / Bootstrap / Cloudinary / Heroku</h3>
+          <h3>Ruby on Rails / Bootstrap / Cloudinary / Fly.io</h3>
         </div>
       </div>
 
@@ -27,7 +27,7 @@ const traveldiary = () => {
           <p>Project</p>
           <h2 className='py-4'>Overview</h2>
           <p>
-            This app was built using Ruby on Rails and is hosted on Heroku. Users
+            This app was built using Ruby on Rails and is hosted on Fly.io. Users
             are able to create a blog or journal of their travel experiences and 
             the user will be able to upload images as well. User
             authentication is available so that user can signup and signin to their
