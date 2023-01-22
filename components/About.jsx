@@ -26,8 +26,9 @@ const About = () => {
             Before becoming a software engineer, I worked as an Operations Manager, where I developed 
             strong problem-solving, communication, and leadership skills. 
             I am a hard-working and flexible team player, with a strong desire to learn and adapt to new technologies. 
-            I am also highly considerate, fostering open communication and collaborating with my team 
-            to consistently deliver high-quality work.
+            I am dedicated to being thoughtful and considerate in my interactions with my team members, and prioritize open 
+            communication and collaboration to ensure the successful delivery of high-quality work.
+
           </p>
           <p className='py-2 text-gray-600'>
             Though I am most proficient in building front-end applications using HTML, CSS, Javascript, and React, 
